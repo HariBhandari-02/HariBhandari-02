@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhandarryharry@gmail.com**
 
-- ⚡ Fun fact **I Think I am Handsome.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
