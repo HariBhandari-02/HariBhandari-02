@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Bhandari</h1>
 <h3 align="center">A passionate full-stack developer based on Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haribhandari-02&label=Profile%20views&color=0e75b6&style=flat" alt="haribhandari-02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haribhandari-02" alt="haribhandari-02" /></a> </p>
 
